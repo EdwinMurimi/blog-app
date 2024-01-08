@@ -1,4 +1,3 @@
-import Image from 'next/image'
 import BlogItem, { BlogPost } from './_components/blog-item'
 import blogData from '@/data/blogData'
 
