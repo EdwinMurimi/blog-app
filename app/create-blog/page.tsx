@@ -47,7 +47,7 @@ export default function Page() {
                         <h1 className="text-sm font-semibold">Create Blog Post</h1>
                         <a href="/"><LiaTimesSolid className="cursor-pointer" /></a>
                     </div>
-                    <h2>Enter your blog details here. Click save when you're done.</h2>
+                    <h2>Enter your blog details here. Click save when you&apos;re done.</h2>
 
                     <div className="mt-5 mb-5">
                         <label htmlFor="blogtitle" className="block text-xs font-medium text-gray-900">Blog Title</label>
