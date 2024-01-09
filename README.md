@@ -1,6 +1,6 @@
-# My Next.js Application Documentation
+# My blog application built using Next.js
 
-This documentation provides an overview of a Next.js application built with React Icons, Tailwind CSS, and TypeScript.
+This documentation provides an overview of my Next.js blog application built with React Icons, Tailwind CSS, and TypeScript.
 
 ## Technologies Used
 
@@ -25,12 +25,12 @@ Make sure you have the following installed on your machine:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/your-nextjs-app.git
+   git clone https://github.com/EdwinMurimi/blog-app.git
 
 1. Navigate to the project directory:
 
    ```bash
-   cd your-nextjs-app
+   cd blog-app
 
 1. Install dependencies:
 

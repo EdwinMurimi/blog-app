@@ -58,7 +58,7 @@ export default function Page() {
             <Head>
                 <title>Accessibility blog | create blog page</title>
             </Head>
-            <div className="block w-full p-6 bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 dark:hover:bg-gray-700">
+            <div className="block w-full p-6 bg-white border border-gray-200 rounded-lg shadow">
                 <form onSubmit={handleSubmit}>
                     <div className="flex justify-between">
                         <h1 className="text-sm font-semibold">Create Blog Post</h1>
